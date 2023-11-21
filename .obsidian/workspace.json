@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "ee455603fd3d6301",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d8bf78754069c14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074d80e5d33abc01",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d80253a21f7ef3b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
+            "id": "58256d3e92e1a9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introducing C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e40fa75d98c6460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. C Fundamentals/2. C Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "445cc828b9f424ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. C Fundamentals/dimensional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d2d742880e66239",
+    "type": "split",
+    "children": [
+      {
+        "id": "5553c9663eb131ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c09c67b29b44aac0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3b3e2c0443c0cd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "559d8ee3739cd7d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61d6a6ebc90a8444",
+    "type": "split",
+    "children": [
+      {
+        "id": "f305106892bf9c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a020b7d0ca9034",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. C Fundamentals/dimensional.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3375b2329109f588",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. C Fundamentals/dimensional.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85dbe86f08621830",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "828ec80535aeed5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. C Fundamentals/dimensional.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "445cc828b9f424ab",
+  "lastOpenFiles": [
+    "2. C Fundamentals/2. C Fundamentals.md",
+    "2. C Fundamentals/dimensional.md",
+    "2. C Fundamentals",
+    "test.c",
+    "1. Introducing C.md"
+  ]
+}
