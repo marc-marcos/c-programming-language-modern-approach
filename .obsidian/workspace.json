@@ -26,31 +26,19 @@
             }
           },
           {
-            "id": "58256d3e92e1a9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Introducing C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e40fa75d98c6460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. C Fundamentals/2. C Fundamentals.md",
+                "file": "4. Expressions/4. Expressions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. C Fundamentals/2. C Fundamentals.md",
+                "file": "4. Expressions/4. Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. C Fundamentals/2. C Fundamentals.md",
+                "file": "4. Expressions/4. Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. C Fundamentals/2. C Fundamentals.md"
+                "file": "4. Expressions/4. Expressions.md"
               }
             }
           }
@@ -177,19 +165,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c09c67b29b44aac0",
+  "active": "8e40fa75d98c6460",
   "lastOpenFiles": [
+    "4. Expressions/4. Expressions.md",
+    "3. Formatted Input-Output/3. Formatted Input-Output.md",
+    "4. Expressions",
+    "Introducing C.md",
+    "1. Introducing C/Introducing C.md",
+    "1. Introducing C",
+    "3. Formatted Input-Output/2.c",
+    "3. Formatted Input-Output/1.c",
+    "3. Formatted Input-Output/a.out",
+    "3. Formatted Input-Output/test.cc",
+    "3. Formatted Input-Output",
     "3. Formatted Input-Output",
     "2. C Fundamentals/Exercises/5.c",
     "2. C Fundamentals/Exercises/4.c",
-    "2. C Fundamentals/Exercises/3.c",
-    "2. C Fundamentals/Exercises/2.c",
-    "2. C Fundamentals/Exercises/2.txt",
-    "2. C Fundamentals/Exercises/a.out",
-    "2. C Fundamentals/Exercises/1.c",
-    "2. C Fundamentals/Exercises/farenheitCelsius.c",
-    "2. C Fundamentals/Exercises/dimensionalWeigth.c",
-    "2. C Fundamentals/Exercises",
     "1. Introducing C.md",
     "2. C Fundamentals/2. C Fundamentals.md",
     "2. C Fundamentals/dimensional.md"
